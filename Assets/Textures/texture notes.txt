@@ -1,0 +1,4 @@
+Use file named "kamalhand.jpg" for kamal, prakashraj, enemy character not for bouncer character
+
+
+use same texture for kamal which i have sent before

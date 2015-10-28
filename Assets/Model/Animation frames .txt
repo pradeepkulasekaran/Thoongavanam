@@ -1,0 +1,121 @@
+Animation frame details 
+========================
+
+
+Pal 25 fps
+
+
+
+
+
+For all Hero & character
+=========================
+
+
+idle                   : 1 to 80  
+
+
+Idle to walk blend     : 80 to 95
+
+
+Idle with talking      : 250 to 409
+
+
+idle blend 
+cycle for both 
+talking & replying     : 409  to  478
+
+
+
+
+
+
+Walk cycle             : 95 to 128               (Not for female characters)
+
+Walk cycle Fine tuned  : 621 to 652   optional   (Not for female characters)
+
+
+Female walk cycle for trisha & others
+=====================================
+
+walk cycle             : 750 to 782
+
+
+
+
+Punches 
+=======
+
+
+Punch 1                      : 132 to 147
+
+punch on face exactly at  "141 st frame  
+
+
+Punch 2 (straight punch)     : 659 to 685
+ 
+
+
+Hits
+====
+
+Hit 1                   : 149 to 170
+
+hit 2   by kick         : 217 to 245
+
+Strong hit falling down : 693 to 750
+
+
+Kicks
+=====             
+
+Kick 1 (straight kick)  :  180 to 212  optional
+
+KIck 1 (fine tunned )   :  583 to 615  
+
+kick to kick hit blend  :  212 to 217  not important
+
+Kick 2 (side kick)      :  551 to 583
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
